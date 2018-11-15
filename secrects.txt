@@ -1,0 +1,6 @@
+bucket-name.s3.amazonaws.com
+bucket_name.s3.amazonaws.com
+bucket.name.s3.amazonaws.com
+buc.ketn.ame.s3.amazonaws.com
+buc_ketna_me.s3.amazonaws.com
+buck-etn-ame.s3.amazonaws.com
