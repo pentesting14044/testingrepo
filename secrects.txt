@@ -1,4 +1,4 @@
-bucket-name.s3.amazonaws.com/bucket-name/bucket-name.txt
+bucket-name.s3.amazonaws.com
 bucket_name.s3.amazonaws.com
 bucket.name.s3.amazonaws.com
 buc.ketn.ame.s3.amazonaws.com
